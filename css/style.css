@@ -1,0 +1,72 @@
+/* Importing Google fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,700&family=Playfair+Display:ital@0;1&display=swap');
+
+/* Importing component files */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+/* General style rules for fonts and colors */
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+
+
+.photos {
+	margin-top: 300px;
+	margin-bottom: 100px;
+}
+
+
+.info {
+	text-align: center;
+	color: lightpink;
+	margin-top: 100px;
+	opacity: 0.6;
+}
+
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+	margin-top: 30px;
+}
+
+
+.list-inline i {
+	font-size: 50px;
+	color: lightpink;
+}
+
+.list-inline i:hover {
+	color: lightgrey;
+}
+
+
+.register {
+	text-align: center;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+.btn-blue {
+	margin: 0px;
+	background-color: whitesmoke;
+	color: black;
+	padding: 10px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+}
+
+.btn-blue:hover {
+	background-color: black;
+	color: whitesmoke;
+	opacity: 0.6;
+}
+#btn-black {
+	background-color: black;
+	color: whitesmoke;
+	padding: 10px 20px;
+	margin: 20px;
+}
+
+#btn-white {
+	background-color: whitesmoke;
+    color: black;
+    padding: 7px 9px;
+    margin: 35px;
+    border-radius: 2px;
+    opacity: 0.5;
+}
+
+
+#btn-white:hover {
+	background-color: black;
+	color: whitesmoke;
+}
+
+
+#btn-black:hover {
+	background-color: lightpink;
+	color: whitesmoke;
+	opacity: 0.3;
+}
+
+
+.btn-menu {
+	color: black;
+	opacity: 0.8;
+	margin: auto;
+}
+
+.btn-menu:hover {
+	color: lightpink;
+	opacity: 0.8;
+}
